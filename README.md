@@ -12,4 +12,6 @@ To captivate and engage with your customers your LangChain application must stre
 
 The StreamingGradioCallbackHandler is a custom callback handler that works with Language Models (LLMs) that support streaming. It's part of the langchain library and is designed to interact with the language model and handle events during its execution.  The combination of multithreading and the StreamingGradioCallbackHandler facilitates the streaming text effect in the Gradio interface. 
 
-**Remeber -- If your code does not stream, then your team will scream!** Check this out and upfit your code!
+**Remember -- If your code does not stream, then your team will scream!** 
+
+### Check this out and upfit your code!
