@@ -2,6 +2,9 @@
 The StreamingGradioCallbackHandler is a custom callback handler that works with Language Models (LLMs) that support streaming. It facilitates the streaming text effect in the Gradio interface.  See code attached...
 
 Halloween 2023 Video Theme
+
+YouTube:  https://youtu.be/XiI8EgVPhLI
+
 ![image](https://github.com/jjmlovesgit/Langchain-realtime-Streaming/assets/47751509/96a79da2-5f49-4e21-b0ff-f04cbabb8281)
 
 
